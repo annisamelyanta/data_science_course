@@ -1,3 +1,3 @@
 ini adalah file contoh untuk praktek GIT di kelas data science batch 11 DigitalSkola
 
-Tidak ada isi apa-apa di file ini
+Tidak ada isi apa-apa di file ini (kosong)
