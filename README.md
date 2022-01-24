@@ -12,14 +12,36 @@ If you have never had data science experience before, click here to find out wha
 <ol>
   <li> 
     <a href='https://github.com/annisamelyanta/data_science_course/blob/master/1_introduction_to_data_science.md'>
-      Introduction to Data Science </a></li>
-  <li> Data Science Methodology </li>
-  <li> Introduction to Data and Database </li>
-  <li> Basic SQL </li>
-  <li> Intermediate SQL </li>
-  <li> Advanced SQL </li>
-  <li> Versioning/Version Control </li>
-  <li> Introduction to Python and Programming </li>
+      Introduction to Data Science </a>
+  </li>
+  <li>
+    <a href='https://github.com/annisamelyanta/data_science_course/blob/master/2_data_science_methodology.md'>
+    Data Science Methodology 
+  </li>
+  <li> 
+    <a href='https://github.com/annisamelyanta/data_science_course/blob/master/3_introduction_to_data_and_database.md'>
+    Introduction to Data and Database 
+  </li>
+  <li> 
+    <a href='https://github.com/annisamelyanta/data_science_course/blob/master/4_basic_sql.md'>
+    Basic SQL 
+  </li>
+  <li> 
+    <a href='https://github.com/annisamelyanta/data_science_course/blob/master/5_intermediate_sql.md'>
+    Intermediate SQL 
+  </li>
+  <li> 
+    <a href='https://github.com/annisamelyanta/data_science_course/blob/master/6_advanced_sql.md'>
+    Advanced SQL 
+  </li>
+  <li> 
+    <a href='https://github.com/annisamelyanta/data_science_course/blob/master/7_version_control_system.md'>
+    Version Control System
+  </li>
+  <li> 
+    <a href='https://github.com/annisamelyanta/data_science_course/blob/master/8_introduction_to_python_and%20_programming.md'>
+    Introduction to Python and Programming 
+  </li>
 </ol>
   
 <h2> Author </h2>
