@@ -10,7 +10,9 @@ If you have never had data science experience before, click here to find out wha
 <h2> List of Contents </h2>
 
 <ol>
-  <li> Introduction to Data Science </li>
+  <li> 
+    <a href='https://github.com/annisamelyanta/data_science_course/blob/master/1_introduction_to_data_science.md'>
+      Introduction to Data Science </a></li>
   <li> Data Science Methodology </li>
   <li> Introduction to Data and Database </li>
   <li> Basic SQL </li>
