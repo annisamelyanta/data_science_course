@@ -7,7 +7,7 @@ There are no long and complicated explanations with fancy words.
 If you have never had data science experience before, click here to find out what data science is like and get started.
 </p>
 
-<h2> List of Content </h2>
+<h2> List of Contents </h2>
 
 <ol>
   <li> Introduction to Data Science </li>
